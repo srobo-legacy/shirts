@@ -174,16 +174,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="716.1693"
-     inkscape:cy="442.53182"
+     inkscape:zoom="2.8"
+     inkscape:cx="641.99406"
+     inkscape:cy="591.75943"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g2930"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-height="721"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="48"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7990">
@@ -1854,29 +1854,29 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:109.55670929000000058px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762000000203%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-             x="671.00745"
-             y="801.11523"
+             style="font-size:109.55670929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+             x="656.14203"
+             y="875.44244"
              id="text2834"
              sodipodi:linespacing="89.999998%"><tspan
                sodipodi:role="line"
-               x="671.00745"
-               y="801.11523"
+               x="656.14203"
+               y="875.44244"
                id="tspan2867">STUDENT ROBOTICS</tspan><tspan
                id="tspan2937"
                sodipodi:role="line"
-               x="671.00745"
-               y="899.71625" /></text>
+               x="656.14203"
+               y="974.04346" /></text>
           <text
              xml:space="preserve"
-             style="font-size:178.38529968000000281px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-             x="943.13251"
-             y="934.80292"
+             style="font-size:178.38529968px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+             x="928.26709"
+             y="1009.1301"
              id="text9837"><tspan
                sodipodi:role="line"
-               x="943.13251"
-               y="934.80292"
-               style="font-size:107.03118134000000339px;fill:#ffffff;fill-opacity:1"
+               x="928.26709"
+               y="1009.1301"
+               style="font-size:107.03118134px;fill:#ffffff;fill-opacity:1"
                id="tspan9843">BRANCH</tspan></text>
         </g>
       </g>
