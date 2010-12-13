@@ -96,8 +96,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="59.44744"
-     inkscape:cy="350.71965"
+     inkscape:cx="-3.5213079"
+     inkscape:cy="387.09598"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -129,7 +129,7 @@
        d="m 780,222.36218 -514.28571,0 -221.336068,127.78844 97.238058,168.42126 121.78756,-70.31408 0,516.96153 542.31045,0 0,-540 71.42857,71.42857 L 990,383.79076 835.71429,229.50504 828.30357,222.09433 780,222.36218 z"
        id="path7995" />
     <g
-       transform="matrix(0.33237499,0,0,-0.33237499,435.65991,697.17739)"
+       transform="matrix(0.33237499,0,0,-0.33237499,439.70052,602.22305)"
        inkscape:label="ink_ext_XXXXXX"
        id="g12"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
@@ -177,7 +177,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.71054268,0,0,-0.71054268,567.11826,585.58808)"
+       transform="matrix(0.71054268,0,0,-0.71054268,571.15887,490.63374)"
        inkscape:label="ink_ext_XXXXXX"
        id="g12-3"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
@@ -1914,7 +1914,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.24823943,0,0,0.24823943,271.26349,401.48284)"
+       transform="matrix(0.24823943,0,0,0.24823943,275.3041,306.5285)"
        id="layer1-9"
        inkscape:label="Layer 1"
        style="fill:#ffffff;fill-opacity:1">
@@ -2123,45 +2123,45 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="334.71643"
-       y="344.83066"
+       x="332.69614"
+       y="300.38394"
        id="text9653"><tspan
          sodipodi:role="line"
          id="tspan9655"
-         x="334.71643"
-         y="344.83066">www.studentrobotics.org</tspan></text>
+         x="332.69614"
+         y="300.38394">www.studentrobotics.org</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="471.20465"
-       y="869.50507"
+       x="468.17419"
+       y="816.97711"
        id="text3389"><tspan
          sodipodi:role="line"
          id="tspan3391"
-         x="471.20465"
-         y="869.50507"
+         x="468.17419"
+         y="816.97711"
          style="font-size:30px">Southampton</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="514.28571"
-       y="825.21936"
+       x="513.27557"
+       y="774.71173"
        id="text3393"><tspan
          sodipodi:role="line"
          id="tspan3395"
-         x="514.28571"
-         y="825.21936"
+         x="513.27557"
+         y="774.71173"
          style="font-size:30px;fill:#f9f9f9">Bristol</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="509.25397"
-       y="919.50507"
+       x="507.23367"
+       y="867.9873"
        id="text3397"><tspan
          sodipodi:role="line"
          id="tspan3399"
-         x="509.25397"
-         y="919.50507">London</tspan></text>
+         x="507.23367"
+         y="867.9873">London</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
