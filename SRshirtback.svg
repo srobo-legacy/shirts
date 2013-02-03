@@ -13,7 +13,7 @@
    height="1052.3622"
    id="svg7985"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="SRshirtback.svg">
   <defs
      id="defs7987">
@@ -103,15 +103,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="428.46588"
-     inkscape:cy="636.22893"
+     inkscape:cx="567.27488"
+     inkscape:cy="569.75357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="722"
+     inkscape:window-width="1920"
+     inkscape:window-height="928"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -2137,59 +2137,5 @@
          id="tspan9655"
          x="332.69614"
          y="300.38394">www.studentrobotics.org</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="445.68848"
-       y="815.83032"
-       id="text3389"><tspan
-         sodipodi:role="line"
-         id="tspan3391"
-         x="445.68848"
-         y="815.83032"
-         style="font-size:30px">Southampton</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="488.76953"
-       y="770.67114"
-       id="text3393"><tspan
-         sodipodi:role="line"
-         id="tspan3395"
-         x="488.76953"
-         y="770.67114"
-         style="font-size:30px;fill:#f9f9f9">Bristol</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="483.73779"
-       y="866.58527"
-       id="text3397"><tspan
-         sodipodi:role="line"
-         id="tspan3399"
-         x="483.73779"
-         y="866.58527">London</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="286.71463"
-       y="42.718052"
-       id="text3401"
-       transform="matrix(0.48083314,0.87681212,-0.87681212,0.48083314,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3403"
-         x="286.71463"
-         y="42.718052"
-         style="font-size:30px;fill:#f9f9f9">2010</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="473.28613"
-       y="911.74451"
-       id="text3397-7"><tspan
-         sodipodi:role="line"
-         id="tspan3399-6"
-         x="473.28613"
-         y="911.74451">Grenoble</tspan></text>
   </g>
 </svg>
