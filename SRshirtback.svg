@@ -102,19 +102,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="414.43063"
-     inkscape:cy="459.78196"
+     inkscape:zoom="1.979899"
+     inkscape:cx="162.83477"
+     inkscape:cy="152.19841"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-9"
-     showgrid="false"
+     inkscape:current-layer="layer1"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="928"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3485" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7990">
     <rdf:RDF>
@@ -2171,13 +2175,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-       x="287.23926"
-       y="907.4856"
-       id="text9653"><tspan
+       style="font-size:40.22775269px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+       x="279.3157"
+       y="917.18115"
+       id="text9653"
+       transform="scale(1.0106386,0.98947336)"><tspan
          sodipodi:role="line"
          id="tspan9655"
-         x="287.23926"
-         y="907.4856">www.studentrobotics.org</tspan></text>
+         x="279.3157"
+         y="917.18115">www.studentrobotics.org</tspan></text>
   </g>
 </svg>
