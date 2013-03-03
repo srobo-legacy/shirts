@@ -19,7 +19,7 @@
      id="defs7987" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#0d1f61"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
@@ -73,7 +73,7 @@
           <g
              id="g2863"
              transform="matrix(1.4662169,0,0,1.4662169,868.05092,-372.44153)"
-             style="fill:#ffffff">
+             style="fill:#000000">
             <path
                inkscape:export-filename="/home/rob/sr.png"
                inkscape:export-ydpi="90.238617"
@@ -85,7 +85,7 @@
                sodipodi:cy="547.79102"
                sodipodi:cx="347.99756"
                id="path2266"
-               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                sodipodi:type="arc" />
             <path
                inkscape:export-ydpi="90.238617"
@@ -93,12 +93,12 @@
                inkscape:export-filename="/home/rob/sr.png"
                sodipodi:nodetypes="ccccccc"
                d="m 38.10219,607.08796 c 0,0 59.59901,-47.98224 118.18786,-58.08377 C 114.87379,535.8722 84.06414,518.19454 37.59711,490.92043 94.16566,462.63615 177.23802,440.47144 178.58737,440.9767 c 1.34935,0.50525 85.28393,21.59853 141.85248,49.88281 -46.46703,27.27411 -75.76145,42.93147 -118.69294,58.58884 52.52794,6.566 117.17771,57.57869 117.17771,57.57869"
-               style="fill:#ffffff;fill-opacity:1;stroke:#0d1f61;stroke-width:37.70000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+               style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:37.70000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
                id="path3255"
                inkscape:connector-curvature="0" />
           </g>
           <g
-             style="font-size:109.55670929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+             style="font-size:109.55670929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
              id="text2834"
              transform="translate(-2.2312435e-5,81.580421)">
             <path
@@ -163,7 +163,7 @@
                inkscape:connector-curvature="0" />
           </g>
           <g
-             style="font-size:178.38529968px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+             style="font-size:178.38529968px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
              id="text9837"
              transform="translate(4.2687565e-5,81.580421)" />
         </g>
