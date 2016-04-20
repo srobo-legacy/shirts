@@ -13,8 +13,8 @@
    height="322.2695"
    id="svg3241"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="motofoundation (copy).svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="asset_motorola_foundation_logo.svg">
   <defs
      id="defs3243">
     <inkscape:perspective
@@ -40,15 +40,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="201.61022"
-     inkscape:cy="126.61459"
+     inkscape:cx="757.19412"
+     inkscape:cy="165.00039"
      inkscape:document-units="px"
-     inkscape:current-layer="g3146"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="722"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3246">
@@ -86,186 +86,168 @@
       <g
          id="g3108"
          style="fill:#000000;fill-opacity:1">
-        <text
+        <g
            transform="matrix(1,0,0,-1,50.398399,868.98102)"
-           id="text190"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan192">m</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text190">
+          <path
+             d="m 4.5615234,-3.8496094 q 0.2285157,-0.5932617 0.7207032,-0.8964843 0.4658203,-0.2944336 1.1074218,-0.2944336 0.6416016,0 1.0283203,0.4526367 0.3911133,0.4482422 0.3911133,1.6171875 l 0,2.9707031 -0.3999023,0 0,-2.9443359 q 0,-1.0195313 -0.28125,-1.3798828 -0.28125,-0.3603516 -0.7470703,-0.3603516 -0.6767578,0 -1.1953125,0.4174805 -0.5668946,0.4526367 -0.5668946,1.4853515 l 0,2.7817383 -0.4042968,0 0,-2.9443359 q 0,-0.984375 -0.272461,-1.3623047 -0.2724609,-0.3779297 -0.7558593,-0.3779297 -0.6767579,0 -1.1953125,0.421875 -0.5668946,0.4526367 -0.5668946,1.480957 l 0,2.7817383 -0.4042969,0 0,-4.921875 0.4042969,0 0,0.9228516 q 0.2153321,-0.4833985 0.6679688,-0.7646485 0.4570312,-0.2768554 1.1206054,-0.2768554 0.4306641,0 0.8305664,0.290039 0.3076172,0.2241211 0.5185547,0.9008789 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3377" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,58.669399,868.98102)"
-           id="text194"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan196">o</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text194">
+          <path
+             d="m 3.9462891,-4.078125 q -0.4350586,-0.6064453 -1.1865235,-0.6064453 -0.7514648,0 -1.1865234,0.6020508 -0.4394531,0.5976562 -0.4394531,1.6171875 0,1.0458984 0.4350586,1.64355466 0.4350586,0.60205078 1.1909179,0.60205078 0.7514649,0 1.1865235,-0.60205078 0.4394531,-0.60644536 0.4394531,-1.64355466 0,-1.0063477 -0.4394531,-1.612793 z m -1.190918,-0.9624023 q 0.9404297,0 1.4853516,0.703125 0.5493164,0.7075195 0.5493164,1.8764648 0,1.2084961 -0.5493164,1.90722656 -0.5449219,0.703125 -1.4853516,0.703125 -0.9492188,0 -1.4985352,-0.69873047 -0.54492184,-0.69873049 -0.54492184,-1.91162109 0,-1.1821289 0.54931644,-1.8808594 0.5493164,-0.6987304 1.4941406,-0.6987304 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3380" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,63.943401,868.98102)"
-           id="text198"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan200">t</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text198">
+          <path
+             d="m 1.4458008,-6.3193359 0,1.3974609 1.6655273,0 0,0.3427734 -1.6655273,0 0,2.9575196 q 0,0.5625 0.1450195,0.78662106 0.2988281,0.4921875 0.8701172,0.4921875 l 0.6503906,0 L 3.1113281,0 2.4829102,0 Q 1.8808594,0 1.4589844,-0.3515625 1.0371094,-0.703125 1.0371094,-1.621582 l 0,-2.9575196 -0.58886721,0 0,-0.3427734 0.58886721,0 0,-1.3974609 0.4086914,0 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3383" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,67.210403,868.98102)"
-           id="text202"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan204">o</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text202">
+          <path
+             d="m 3.9462891,-4.078125 q -0.4350586,-0.6064453 -1.1865235,-0.6064453 -0.7514648,0 -1.1865234,0.6020508 -0.4394531,0.5976562 -0.4394531,1.6171875 0,1.0458984 0.4350586,1.64355466 0.4350586,0.60205078 1.1909179,0.60205078 0.7514649,0 1.1865235,-0.60205078 0.4394531,-0.60644536 0.4394531,-1.64355466 0,-1.0063477 -0.4394531,-1.612793 z m -1.190918,-0.9624023 q 0.9404297,0 1.4853516,0.703125 0.5493164,0.7075195 0.5493164,1.8764648 0,1.2084961 -0.5493164,1.90722656 -0.5449219,0.703125 -1.4853516,0.703125 -0.9492188,0 -1.4985352,-0.69873047 -0.54492184,-0.69873049 -0.54492184,-1.91162109 0,-1.1821289 0.54931644,-1.8808594 0.5493164,-0.6987304 1.4941406,-0.6987304 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3386" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,72.484398,868.98102)"
-           id="text206"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan208">r</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text206">
+          <path
+             d="m 3.6914063,-4.574707 q -0.09668,-0.04834 -0.2636719,-0.083496 -0.1494141,-0.026367 -0.3779297,-0.026367 -0.7470703,0 -1.2392578,0.5537109 -0.3867188,0.4482422 -0.3867188,1.538086 l 0,2.5927734 -0.3955078,0 0,-4.921875 0.3955078,0 0,0.9228516 q 0.1977539,-0.3955078 0.553711,-0.6679688 0.4921875,-0.3735351 1.1601562,-0.3735351 0.1713867,0 0.2988281,0.013184 0.131836,0 0.2548829,0.030762 l 0,0.421875 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3389" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,75.751389,868.98102)"
-           id="text210"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan212">o</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text210">
+          <path
+             d="m 3.9462891,-4.078125 q -0.4350586,-0.6064453 -1.1865235,-0.6064453 -0.7514648,0 -1.1865234,0.6020508 -0.4394531,0.5976562 -0.4394531,1.6171875 0,1.0458984 0.4350586,1.64355466 0.4350586,0.60205078 1.1909179,0.60205078 0.7514649,0 1.1865235,-0.60205078 0.4394531,-0.60644536 0.4394531,-1.64355466 0,-1.0063477 -0.4394531,-1.612793 z m -1.190918,-0.9624023 q 0.9404297,0 1.4853516,0.703125 0.5493164,0.7075195 0.5493164,1.8764648 0,1.2084961 -0.5493164,1.90722656 -0.5449219,0.703125 -1.4853516,0.703125 -0.9492188,0 -1.4985352,-0.69873047 -0.54492184,-0.69873049 -0.54492184,-1.91162109 0,-1.1821289 0.54931644,-1.8808594 0.5493164,-0.6987304 1.4941406,-0.6987304 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3392" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,81.025398,868.98102)"
-           id="text214"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan216">l</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text214">
+          <path
+             d="m 1.0195312,-6.8378906 0.4042969,0 0,6.8378906 -0.4042969,0 0,-6.8378906 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3395" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,83.293388,868.98102)"
-           id="text218"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan220">a</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text218">
+          <path
+             d="m 2.9882813,-2.7773438 q -0.975586,0 -1.4062501,0.347168 -0.430664,0.347168 -0.430664,1.0151367 0,0.65039066 0.355957,0.9228516 0.355957,0.27246094 0.84375,0.27246094 0.9228516,0 1.3271485,-0.78222654 0.4086914,-0.7822266 0.4086914,-1.472168 l 0,-0.3032227 -1.0986328,0 z m 1.5073242,-0.030762 0,2.8081055 -0.3999024,0 0,-1.3359375 Q 3.7573242,-0.35595703 3.1992188,-0.08789062 2.7553711,0.12744141 2.315918,0.12744141 q -0.7338868,0 -1.1557618,-0.39111329 -0.42187495,-0.39550781 -0.42187495,-1.16015622 0,-0.7646485 0.54931645,-1.2216797 0.5493164,-0.4614258 1.7973632,-0.4614258 l 1.0019532,0 0,-0.079102 q 0,-0.6547851 -0.3735352,-1.0766601 -0.3691406,-0.421875 -1.2216797,-0.421875 -0.421875,0 -0.8613281,0.1582031 -0.28125,0.1010742 -0.72949219,0.4086914 l 0,-0.4350586 q 0.39111329,-0.2416992 0.72949219,-0.3427734 0.4921875,-0.1450195 0.9448242,-0.1450195 0.8701172,0 1.4326172,0.5273437 0.487793,0.4526367 0.487793,1.7050781 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3398" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,50.398399,858.48071)"
-           id="text222"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan224">f</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text222">
+          <path
+             d="m 3.1376953,-6.8378906 0,0.3427734 -0.571289,0 q -0.4482422,0 -0.6855469,0.2329102 -0.2900391,0.2856445 -0.2900391,0.9052734 l 0,0.4350586 1.3271485,0 0,0.3427734 -1.3271485,0 0,4.5791016 -0.4086914,0 0,-4.5791016 -0.77343749,0 0,-0.3427734 0.77343749,0 0,-0.3427734 q 0,-0.8217774 0.3735352,-1.1953125 0.3691406,-0.3779297 1.0195312,-0.3779297 l 0.5625,0 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3401" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,53.665401,858.48071)"
-           id="text226"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan228">o</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text226">
+          <path
+             d="m 3.9462891,-4.078125 q -0.4350586,-0.6064453 -1.1865235,-0.6064453 -0.7514648,0 -1.1865234,0.6020508 -0.4394531,0.5976562 -0.4394531,1.6171875 0,1.0458984 0.4350586,1.64355466 0.4350586,0.60205078 1.1909179,0.60205078 0.7514649,0 1.1865235,-0.60205078 0.4394531,-0.60644536 0.4394531,-1.64355466 0,-1.0063477 -0.4394531,-1.612793 z m -1.190918,-0.9624023 q 0.9404297,0 1.4853516,0.703125 0.5493164,0.7075195 0.5493164,1.8764648 0,1.2084961 -0.5493164,1.90722656 -0.5449219,0.703125 -1.4853516,0.703125 -0.9492188,0 -1.4985352,-0.69873047 -0.54492184,-0.69873049 -0.54492184,-1.91162109 0,-1.1821289 0.54931644,-1.8808594 0.5493164,-0.6987304 1.4941406,-0.6987304 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3404" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,58.9394,858.48071)"
-           id="text230"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan232">u</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text230">
+          <path
+             d="m 1.0195312,-1.9511719 0,-2.9707031 0.4042969,0 0,2.9443359 q 0,0.9580079 0.3076172,1.34912113 0.3076172,0.39111328 0.9052735,0.39111328 0.6987304,0 1.1953125,-0.421875 0.5009765,-0.42626951 0.5009765,-1.48095701 l 0,-2.7817383 0.4042969,0 0,4.921875 -0.4042969,0 0,-0.92285156 q -0.215332,0.44824218 -0.5668945,0.68554687 -0.5185547,0.35595703 -1.1469727,0.35595703 -0.7294922,0 -1.1645508,-0.49658203 -0.4350586,-0.4921875 -0.4350586,-1.57324221 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3407" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,64.213402,858.48071)"
-           id="text234"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan236">n</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text234">
+          <path
+             d="m 4.7373047,-2.9707031 0,2.9707031 -0.4042969,0 0,-2.9443359 q 0,-0.9580079 -0.3076172,-1.3491211 -0.3076172,-0.3911133 -0.9052734,-0.3911133 -0.6987305,0 -1.1953125,0.421875 -0.5009766,0.4262695 -0.5009766,1.480957 l 0,2.7817383 -0.4042969,0 0,-4.921875 0.4042969,0 0,0.9228516 q 0.2153321,-0.4482422 0.5668946,-0.6855469 0.5185546,-0.355957 1.1469726,-0.355957 0.7294922,0 1.1645508,0.496582 0.4350586,0.4921875 0.4350586,1.5732422 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3410" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,69.487411,858.48071)"
-           id="text238"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan240">d</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text238">
+          <path
+             d="m 4.6010742,-3.796875 0,-3.0410156 0.3955078,0 0,6.8378906 -0.3955078,0 0,-1.1162109 q -0.2768555,0.64160152 -0.6020508,0.87890621 -0.496582,0.3647461 -0.9360351,0.3647461 -0.8745117,0 -1.4545899,-0.71191407 Q 1.0283203,-1.2963867 1.0283203,-2.456543 q 0,-1.1601562 0.5800781,-1.8720703 0.5800782,-0.711914 1.4545899,-0.711914 0.4394531,0 0.9360351,0.3647461 0.3251953,0.2373046 0.6020508,0.8789062 z M 1.9643555,-4.1704102 Q 1.4545898,-3.65625 1.4545898,-2.456543 q 0,1.1997071 0.5097657,1.71386722 0.5053711,0.51416015 1.0678711,0.51416015 0.5493164,0 1.059082,-0.51416015 0.5053711,-0.51416012 0.5053711,-1.71386722 0,-1.199707 -0.5053711,-1.7138672 -0.5097656,-0.5141601 -1.059082,-0.5141601 -0.5625,0 -1.0678711,0.5141601 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3413" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,74.761406,858.48071)"
-           id="text242"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan244">a</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text242">
+          <path
+             d="m 2.9882813,-2.7773438 q -0.975586,0 -1.4062501,0.347168 -0.430664,0.347168 -0.430664,1.0151367 0,0.65039066 0.355957,0.9228516 0.355957,0.27246094 0.84375,0.27246094 0.9228516,0 1.3271485,-0.78222654 0.4086914,-0.7822266 0.4086914,-1.472168 l 0,-0.3032227 -1.0986328,0 z m 1.5073242,-0.030762 0,2.8081055 -0.3999024,0 0,-1.3359375 Q 3.7573242,-0.35595703 3.1992188,-0.08789062 2.7553711,0.12744141 2.315918,0.12744141 q -0.7338868,0 -1.1557618,-0.39111329 -0.42187495,-0.39550781 -0.42187495,-1.16015622 0,-0.7646485 0.54931645,-1.2216797 0.5493164,-0.4614258 1.7973632,-0.4614258 l 1.0019532,0 0,-0.079102 q 0,-0.6547851 -0.3735352,-1.0766601 -0.3691406,-0.421875 -1.2216797,-0.421875 -0.421875,0 -0.8613281,0.1582031 -0.28125,0.1010742 -0.72949219,0.4086914 l 0,-0.4350586 q 0.39111329,-0.2416992 0.72949219,-0.3427734 0.4921875,-0.1450195 0.9448242,-0.1450195 0.8701172,0 1.4326172,0.5273437 0.487793,0.4526367 0.487793,1.7050781 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3416" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,79.531403,858.48071)"
-           id="text246"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan248">t</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text246">
+          <path
+             d="m 1.4458008,-6.3193359 0,1.3974609 1.6655273,0 0,0.3427734 -1.6655273,0 0,2.9575196 q 0,0.5625 0.1450195,0.78662106 0.2988281,0.4921875 0.8701172,0.4921875 l 0.6503906,0 L 3.1113281,0 2.4829102,0 Q 1.8808594,0 1.4589844,-0.3515625 1.0371094,-0.703125 1.0371094,-1.621582 l 0,-2.9575196 -0.58886721,0 0,-0.3427734 0.58886721,0 0,-1.3974609 0.4086914,0 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3419" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,82.798401,858.48071)"
-           id="text250"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan252">i</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text250">
+          <path
+             d="m 1.0107422,-4.921875 0.4042969,0 0,4.921875 -0.4042969,0 0,-4.921875 z m 0,-1.9160156 0.4042969,0 0,0.5537109 -0.4042969,0 0,-0.5537109 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3422" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,85.066399,858.48071)"
-           id="text254"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan256">o</tspan>
-        </text>
-        <text
+           style="fill:#000000;fill-opacity:1"
+           id="text254">
+          <path
+             d="m 3.9462891,-4.078125 q -0.4350586,-0.6064453 -1.1865235,-0.6064453 -0.7514648,0 -1.1865234,0.6020508 -0.4394531,0.5976562 -0.4394531,1.6171875 0,1.0458984 0.4350586,1.64355466 0.4350586,0.60205078 1.1909179,0.60205078 0.7514649,0 1.1865235,-0.60205078 0.4394531,-0.60644536 0.4394531,-1.64355466 0,-1.0063477 -0.4394531,-1.612793 z m -1.190918,-0.9624023 q 0.9404297,0 1.4853516,0.703125 0.5493164,0.7075195 0.5493164,1.8764648 0,1.2084961 -0.5493164,1.90722656 -0.5449219,0.703125 -1.4853516,0.703125 -0.9492188,0 -1.4985352,-0.69873047 -0.54492184,-0.69873049 -0.54492184,-1.91162109 0,-1.1821289 0.54931644,-1.8808594 0.5493164,-0.6987304 1.4941406,-0.6987304 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3425" />
+        </g>
+        <g
            transform="matrix(1,0,0,-1,90.340401,858.48071)"
-           id="text258"
-           style="fill:#000000;fill-opacity:1">
-          <tspan
-             style="font-size:9px;font-variant:normal;font-weight:300;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Univers;-inkscape-font-specification:Univers-Light"
-             x="0"
-             y="0"
-             id="tspan260">n</tspan>
-        </text>
+           style="fill:#000000;fill-opacity:1"
+           id="text258">
+          <path
+             d="m 4.7373047,-2.9707031 0,2.9707031 -0.4042969,0 0,-2.9443359 q 0,-0.9580079 -0.3076172,-1.3491211 -0.3076172,-0.3911133 -0.9052734,-0.3911133 -0.6987305,0 -1.1953125,0.421875 -0.5009766,0.4262695 -0.5009766,1.480957 l 0,2.7817383 -0.4042969,0 0,-4.921875 0.4042969,0 0,0.9228516 q 0.2153321,-0.4482422 0.5668946,-0.6855469 0.5185546,-0.355957 1.1469726,-0.355957 0.7294922,0 1.1645508,0.496582 0.4350586,0.4921875 0.4350586,1.5732422 z"
+             style="font-variant:normal;font-weight:300;font-size:9px;font-family:Univers;-inkscape-font-specification:Univers-Light;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3428" />
+        </g>
       </g>
     </g>
   </g>
