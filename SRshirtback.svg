@@ -14,7 +14,10 @@
    id="svg7985"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="SRshirtback.svg">
+   sodipodi:docname="SRshirtback.svg"
+   inkscape:export-filename="/home/rbarlow/srobo/git/shirts/SRshirtback.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs7987">
     <inkscape:perspective
@@ -102,9 +105,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="550.84353"
-     inkscape:cy="420.95804"
+     inkscape:zoom="0.7"
+     inkscape:cx="514.23957"
+     inkscape:cy="662.99546"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -596,5 +599,17 @@
          style=""
          id="path3617" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="461.42856"
+       y="129.50505"
+       id="text4244"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="461.42856"
+         y="129.50505"
+         style="font-size:50px">BACK</tspan></text>
   </g>
 </svg>

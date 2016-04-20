@@ -14,8 +14,11 @@
    height="1052.3622"
    id="svg7985"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="SRshirtfront.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SRshirtfront.svg"
+   inkscape:export-filename="/home/rbarlow/srobo/git/shirts/SRshirtfront.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs7987">
     <inkscape:perspective
@@ -322,16 +325,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1021.5899"
-     inkscape:cy="407.62783"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="439.21575"
+     inkscape:cy="532.3427"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="928"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7990">
@@ -341,7 +344,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -399,7 +402,7 @@
                        sodipodi:cy="547.79102"
                        sodipodi:rx="196.47467"
                        sodipodi:ry="196.47467"
-                       d="m 544.47223,547.79102 c 0,108.50996 -87.96471,196.47467 -196.47467,196.47467 -108.50997,0 -196.47467,-87.96471 -196.47467,-196.47467 0,-108.50997 87.9647,-196.47467 196.47467,-196.47467 108.50996,0 196.47467,87.9647 196.47467,196.47467 z"
+                       d="M 544.47223,547.79102 A 196.47467,196.47467 0 0 1 347.99756,744.26569 196.47467,196.47467 0 0 1 151.52289,547.79102 196.47467,196.47467 0 0 1 347.99756,351.31635 196.47467,196.47467 0 0 1 544.47223,547.79102 Z"
                        transform="translate(-168.93846,-22.060915)"
                        inkscape:export-xdpi="90.238617"
                        inkscape:export-ydpi="90.238617"
@@ -498,5 +501,16 @@
            transform="translate(0.75454682,-329.25543)" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50px;line-height:120.00000477%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="464.6702"
+       y="131.10306"
+       id="text4215"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4217"
+         x="464.6702"
+         y="131.10306">FRONT</tspan></text>
   </g>
 </svg>
