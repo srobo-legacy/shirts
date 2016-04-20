@@ -1,7 +1,7 @@
 assets=$(wildcard asset_*.svg)
 asset_pdfs=$(patsubst %.svg,%.pdf,$(assets))
 
-SR-shirt.zip: ${assets} ${asset_pdfs} layout.png
+SR-shirt.zip: ${assets} ${asset_pdfs} layout.png README
 	-rm -f $@
 	zip $@ $^
 
@@ -16,4 +16,4 @@ layout.png: layout_front.png layout_back.png
 
 .PHONY: clean
 clean:
-	-rm -f SR-shirt.zip *.png
+	-rm -f SR-shirt.zip *.png *.pdf
